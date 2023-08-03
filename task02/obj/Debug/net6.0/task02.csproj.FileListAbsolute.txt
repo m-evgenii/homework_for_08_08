@@ -1,0 +1,15 @@
+C:\petr_ne_budy\c#\seminar01\homework\task02\bin\Debug\net6.0\task02.exe
+C:\petr_ne_budy\c#\seminar01\homework\task02\bin\Debug\net6.0\task02.deps.json
+C:\petr_ne_budy\c#\seminar01\homework\task02\bin\Debug\net6.0\task02.runtimeconfig.json
+C:\petr_ne_budy\c#\seminar01\homework\task02\bin\Debug\net6.0\task02.dll
+C:\petr_ne_budy\c#\seminar01\homework\task02\bin\Debug\net6.0\task02.pdb
+C:\petr_ne_budy\c#\seminar01\homework\task02\obj\Debug\net6.0\task02.csproj.AssemblyReference.cache
+C:\petr_ne_budy\c#\seminar01\homework\task02\obj\Debug\net6.0\task02.GeneratedMSBuildEditorConfig.editorconfig
+C:\petr_ne_budy\c#\seminar01\homework\task02\obj\Debug\net6.0\task02.AssemblyInfoInputs.cache
+C:\petr_ne_budy\c#\seminar01\homework\task02\obj\Debug\net6.0\task02.AssemblyInfo.cs
+C:\petr_ne_budy\c#\seminar01\homework\task02\obj\Debug\net6.0\task02.csproj.CoreCompileInputs.cache
+C:\petr_ne_budy\c#\seminar01\homework\task02\obj\Debug\net6.0\task02.dll
+C:\petr_ne_budy\c#\seminar01\homework\task02\obj\Debug\net6.0\refint\task02.dll
+C:\petr_ne_budy\c#\seminar01\homework\task02\obj\Debug\net6.0\task02.pdb
+C:\petr_ne_budy\c#\seminar01\homework\task02\obj\Debug\net6.0\task02.genruntimeconfig.cache
+C:\petr_ne_budy\c#\seminar01\homework\task02\obj\Debug\net6.0\ref\task02.dll

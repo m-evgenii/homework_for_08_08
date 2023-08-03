@@ -1,0 +1,15 @@
+C:\petr_ne_budy\c#\seminar01\homework\task01\bin\Debug\net6.0\task01.exe
+C:\petr_ne_budy\c#\seminar01\homework\task01\bin\Debug\net6.0\task01.deps.json
+C:\petr_ne_budy\c#\seminar01\homework\task01\bin\Debug\net6.0\task01.runtimeconfig.json
+C:\petr_ne_budy\c#\seminar01\homework\task01\bin\Debug\net6.0\task01.dll
+C:\petr_ne_budy\c#\seminar01\homework\task01\bin\Debug\net6.0\task01.pdb
+C:\petr_ne_budy\c#\seminar01\homework\task01\obj\Debug\net6.0\task01.csproj.AssemblyReference.cache
+C:\petr_ne_budy\c#\seminar01\homework\task01\obj\Debug\net6.0\task01.GeneratedMSBuildEditorConfig.editorconfig
+C:\petr_ne_budy\c#\seminar01\homework\task01\obj\Debug\net6.0\task01.AssemblyInfoInputs.cache
+C:\petr_ne_budy\c#\seminar01\homework\task01\obj\Debug\net6.0\task01.AssemblyInfo.cs
+C:\petr_ne_budy\c#\seminar01\homework\task01\obj\Debug\net6.0\task01.csproj.CoreCompileInputs.cache
+C:\petr_ne_budy\c#\seminar01\homework\task01\obj\Debug\net6.0\task01.dll
+C:\petr_ne_budy\c#\seminar01\homework\task01\obj\Debug\net6.0\refint\task01.dll
+C:\petr_ne_budy\c#\seminar01\homework\task01\obj\Debug\net6.0\task01.pdb
+C:\petr_ne_budy\c#\seminar01\homework\task01\obj\Debug\net6.0\task01.genruntimeconfig.cache
+C:\petr_ne_budy\c#\seminar01\homework\task01\obj\Debug\net6.0\ref\task01.dll
